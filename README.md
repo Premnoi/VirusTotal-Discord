@@ -48,6 +48,4 @@ python bot.py
 - ต้องมี **Discord Bot Token** และ **VirusTotal API Key** เพื่อให้บอททำงานได้  
 - สามารถขอ API Key ได้ที่ [VirusTotal](https://www.virustotal.com/gui/join-us)
 
-## 📜 License
-This project is licensed under the MIT License.
 
