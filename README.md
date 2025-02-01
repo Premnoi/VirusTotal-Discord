@@ -47,6 +47,9 @@ Use the `!scan` command to check a URL or file hash:
 - A **Discord Bot Token** and **VirusTotal API Key** are required.
 - Get an API Key from [VirusTotal](https://www.virustotal.com/gui/join-us).
 
+ ---
+<br />
+<br />
 
 # 🦠 VirusTotal Discord Bot
 
