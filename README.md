@@ -1,7 +1,57 @@
+# VirusTotal Discord Bot
+
+A Discord bot that checks URLs and file hashes using the VirusTotal API. This bot helps filter potentially harmful links and files in your server.
+
+## Features
+- Scan URLs to detect potential threats.
+- Check file hashes against VirusTotal's database.
+- Simple usage with the `!scan` command.
+
+## Installation
+
+### 1. Install Python and Dependencies
+```bash
+# Clone the repository and navigate to the project directory
+git clone https://github.com/USERNAME/REPOSITORY.git  
+cd REPOSITORY  
+
+# Install dependencies
+pip install -r requirements.txt
+```
+
+### 2. Configure Environment Variables
+Create a `.env` file and add the required API keys:
+```plaintext
+TOTALVIRUS_API_KEY=your_virustotal_api_key
+DISCORD_TOKEN=your_discord_bot_token
+```
+
+### 3. Run the Bot
+```bash
+python bot.py
+```
+
+## Usage
+Use the `!scan` command to check a URL or file hash:
+```plaintext
+!scan <URL or file hash>
+```
+
+### Example
+```plaintext
+!scan https://example.com  
+!scan d41d8cd98f00b204e9800998ecf8427e
+```
+
+## Notes
+- A **Discord Bot Token** and **VirusTotal API Key** are required.
+- Get an API Key from [VirusTotal](https://www.virustotal.com/gui/join-us).
+
+
 # 🦠 VirusTotal Discord Bot
 
 บอท Discord ที่ช่วยตรวจสอบ URL และไฟล์ผ่าน VirusTotal API  
-เหมาะสำหรับใช้กรองลิงก์และไฟล์ที่อาจเป็นอันตรายในเซิร์ฟเวอร์ของคุณ  
+เหมาะสำหรับใช้กรองลิงก์และไฟล์ที่อาจเป็นอันตรายในเซิร์ฟเวอร์
 
 ## 🚀 ฟีเจอร์
 - ตรวจสอบ URL ว่ามีความเสี่ยงหรือไม่  
