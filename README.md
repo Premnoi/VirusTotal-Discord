@@ -1,4 +1,3 @@
-# VirusTotal-Discord
 # 🦠 VirusTotal Discord Bot
 
 บอท Discord ที่ช่วยตรวจสอบ URL และไฟล์ผ่าน VirusTotal API  
