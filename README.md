@@ -12,8 +12,8 @@ A Discord bot that checks URLs and file hashes using the VirusTotal API. This bo
 ### 1. Install Python and Dependencies
 ```bash
 # Clone the repository and navigate to the project directory
-git clone https://github.com/USERNAME/REPOSITORY.git  
-cd REPOSITORY  
+git clone https://github.com/Premnoi/VirusTotal-Discord.git  
+cd VirusTotal-Discord
 
 # Install dependencies
 pip install -r requirements.txt
