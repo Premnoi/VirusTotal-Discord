@@ -66,8 +66,8 @@ Use the `!scan` command to check a URL or file hash:
 ### 1️⃣ ติดตั้ง Python และไลบรารีที่จำเป็น
 ```bash
 # โคลนโปรเจกต์และเข้าไปในโฟลเดอร์
-git clone https://github.com/USERNAME/REPOSITORY.git  
-cd REPOSITORY  
+git clone https://github.com/Premnoi/VirusTotal-Discord.git  
+cd VirusTotal-Discord
 
 # ติดตั้ง dependencies
 pip install -r requirements.txt
