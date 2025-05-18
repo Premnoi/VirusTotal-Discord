@@ -2,6 +2,8 @@
 
 A Discord bot that checks URLs and file hashes using the VirusTotal API. This bot helps filter potentially harmful links and files in your server.
 
+![img](https://media.discordapp.net/attachments/1260613480545915001/1373549373748809739/image.png?ex=682ad10a&is=68297f8a&hm=c40a803aec90149f2d4462a31a2e6b58701240750d4de0b5e314bb2e79629ef5&=&format=webp&quality=lossless)
+
 ## Features
 - Scan URLs to detect potential threats.
 - Check file hashes against VirusTotal's database.
