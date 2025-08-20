@@ -101,6 +101,6 @@ python bot.py
 
 ##  หมายเหตุ
 - ต้องมี **Discord Bot Token** และ **VirusTotal API Key** เพื่อให้บอททำงานได้  
-- สามารถขอ API Key ได้ที่ [VirusTotal](https://www.virustotal.com/gui/join-us)
+- ขอ API Key ได้จาก [VirusTotal](https://www.virustotal.com/gui/join-us)
 
 
