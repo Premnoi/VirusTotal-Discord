@@ -53,8 +53,4 @@ Use the `!scan` command to check a URL or file hash:
 <br />
 <br />
 
-##  หมายเหตุ
-- ต้องมี **Discord Bot Token** และ **VirusTotal API Key** เพื่อให้บอททำงานได้  
-- ขอ API Key ได้จาก [VirusTotal](https://www.virustotal.com/gui/join-us)
-
 
